@@ -1,0 +1,11 @@
+RF01 - Permitir que o usuário interaja com o chatterbot na língua portuguesa;
+
+RF02 - Permitir que o chatterbot responda perguntas sobre a situação citada pelo cliente;
+
+RF03 - Permitir a interação com o usuário a partir de hiperlinks;
+
+RF04 - O início da interação com o usuário utilizando hiperlinks deve ser iniciado a partir do momento que o chatterbot não possuir resposta para um diálogo;
+
+RF05- Permitir que o usuário interaja com o chatterbot através de uma página web;
+
+RF06 -A página web deve exibir o histórico da conversa durante o diálogo com o chatterbot;
