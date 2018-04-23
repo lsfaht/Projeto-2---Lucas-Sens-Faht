@@ -1,0 +1,7 @@
+RNF01 - Utilizar a linguagem de programação Java para o desenvolvimento do back-end 
+
+RNF02 -Utilizar o banco de dados MySQL para simular a base de dados de um software para gestão hospitalar 
+
+RNF03 - Utilizar o interpretador Program AB para interpretar a base de conhecimento AIML
+
+RNF04 - Criar uma base de conhecimento utilizando a linguagem AIML
