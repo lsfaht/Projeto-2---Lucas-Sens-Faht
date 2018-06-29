@@ -51,7 +51,7 @@ public class chatbot extends javax.swing.JFrame {
         jSeparator1 = new javax.swing.JPopupMenu.Separator();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setTitle("Chatbot Elisa");
+        setTitle("Philips Clinical Informatics");
 
         jPanel2.setBorder(javax.swing.BorderFactory.createEtchedBorder());
         jPanel2.setNextFocusableComponent(txtFrase);
