@@ -1,1 +1,1 @@
- 
+Programa utilizado para gravação da demonstração: Screen2exe 
